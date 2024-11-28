@@ -1,0 +1,29 @@
+D:\ITStep\Homeworks\OOP - Books\bin\Debug\net8.0\OOP - Books.exe
+D:\ITStep\Homeworks\OOP - Books\bin\Debug\net8.0\OOP - Books.deps.json
+D:\ITStep\Homeworks\OOP - Books\bin\Debug\net8.0\OOP - Books.runtimeconfig.json
+D:\ITStep\Homeworks\OOP - Books\bin\Debug\net8.0\OOP - Books.dll
+D:\ITStep\Homeworks\OOP - Books\bin\Debug\net8.0\OOP - Books.pdb
+D:\ITStep\Homeworks\OOP - Books\obj\Debug\net8.0\OOP - Books.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITStep\Homeworks\OOP - Books\obj\Debug\net8.0\OOP - Books.AssemblyInfoInputs.cache
+D:\ITStep\Homeworks\OOP - Books\obj\Debug\net8.0\OOP - Books.AssemblyInfo.cs
+D:\ITStep\Homeworks\OOP - Books\obj\Debug\net8.0\OOP - Books.csproj.CoreCompileInputs.cache
+D:\ITStep\Homeworks\OOP - Books\obj\Debug\net8.0\OOP - Books.dll
+D:\ITStep\Homeworks\OOP - Books\obj\Debug\net8.0\refint\OOP - Books.dll
+D:\ITStep\Homeworks\OOP - Books\obj\Debug\net8.0\OOP - Books.pdb
+D:\ITStep\Homeworks\OOP - Books\obj\Debug\net8.0\OOP - Books.genruntimeconfig.cache
+D:\ITStep\Homeworks\OOP - Books\obj\Debug\net8.0\ref\OOP - Books.dll
+D:\Users\Luka\Desktop\Final Project\OOP - Books\bin\Debug\net8.0\OOP - Books.exe
+D:\Users\Luka\Desktop\Final Project\OOP - Books\bin\Debug\net8.0\OOP - Books.deps.json
+D:\Users\Luka\Desktop\Final Project\OOP - Books\bin\Debug\net8.0\OOP - Books.runtimeconfig.json
+D:\Users\Luka\Desktop\Final Project\OOP - Books\bin\Debug\net8.0\OOP - Books.dll
+D:\Users\Luka\Desktop\Final Project\OOP - Books\bin\Debug\net8.0\OOP - Books.pdb
+D:\Users\Luka\Desktop\Final Project\OOP - Books\obj\Debug\net8.0\OOP - Books.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Luka\Desktop\Final Project\OOP - Books\obj\Debug\net8.0\OOP - Books.AssemblyInfoInputs.cache
+D:\Users\Luka\Desktop\Final Project\OOP - Books\obj\Debug\net8.0\OOP - Books.AssemblyInfo.cs
+D:\Users\Luka\Desktop\Final Project\OOP - Books\obj\Debug\net8.0\OOP - Books.csproj.CoreCompileInputs.cache
+D:\Users\Luka\Desktop\Final Project\OOP - Books\obj\Debug\net8.0\OOP - Books.sourcelink.json
+D:\Users\Luka\Desktop\Final Project\OOP - Books\obj\Debug\net8.0\OOP - Books.dll
+D:\Users\Luka\Desktop\Final Project\OOP - Books\obj\Debug\net8.0\refint\OOP - Books.dll
+D:\Users\Luka\Desktop\Final Project\OOP - Books\obj\Debug\net8.0\OOP - Books.pdb
+D:\Users\Luka\Desktop\Final Project\OOP - Books\obj\Debug\net8.0\OOP - Books.genruntimeconfig.cache
+D:\Users\Luka\Desktop\Final Project\OOP - Books\obj\Debug\net8.0\ref\OOP - Books.dll
