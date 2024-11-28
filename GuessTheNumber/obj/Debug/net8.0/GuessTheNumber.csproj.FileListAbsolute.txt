@@ -1,0 +1,28 @@
+D:\ITStep\Homeworks\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.exe
+D:\ITStep\Homeworks\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.deps.json
+D:\ITStep\Homeworks\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.runtimeconfig.json
+D:\ITStep\Homeworks\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.dll
+D:\ITStep\Homeworks\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.pdb
+D:\ITStep\Homeworks\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITStep\Homeworks\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfoInputs.cache
+D:\ITStep\Homeworks\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfo.cs
+D:\ITStep\Homeworks\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+D:\ITStep\Homeworks\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.dll
+D:\ITStep\Homeworks\GuessTheNumber\obj\Debug\net8.0\refint\GuessTheNumber.dll
+D:\ITStep\Homeworks\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.pdb
+D:\ITStep\Homeworks\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.genruntimeconfig.cache
+D:\ITStep\Homeworks\GuessTheNumber\obj\Debug\net8.0\ref\GuessTheNumber.dll
+D:\ITStep\Homeworks\Final Projects\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.exe
+D:\ITStep\Homeworks\Final Projects\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.deps.json
+D:\ITStep\Homeworks\Final Projects\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.runtimeconfig.json
+D:\ITStep\Homeworks\Final Projects\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.dll
+D:\ITStep\Homeworks\Final Projects\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.pdb
+D:\ITStep\Homeworks\Final Projects\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITStep\Homeworks\Final Projects\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfoInputs.cache
+D:\ITStep\Homeworks\Final Projects\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfo.cs
+D:\ITStep\Homeworks\Final Projects\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+D:\ITStep\Homeworks\Final Projects\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.dll
+D:\ITStep\Homeworks\Final Projects\GuessTheNumber\obj\Debug\net8.0\refint\GuessTheNumber.dll
+D:\ITStep\Homeworks\Final Projects\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.pdb
+D:\ITStep\Homeworks\Final Projects\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.genruntimeconfig.cache
+D:\ITStep\Homeworks\Final Projects\GuessTheNumber\obj\Debug\net8.0\ref\GuessTheNumber.dll
